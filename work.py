@@ -1,3 +1,3 @@
 
 def calculate():
-  return 10000
+  return 3628800
